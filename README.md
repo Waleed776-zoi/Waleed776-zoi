@@ -4,6 +4,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;MS+Computational+Science+%26+Engineering+%40+NUST;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Building+AI+Systems+for+Real-World+Impact" />
 </p>
 
+<a href="https://github.com/Waleed776-zoi">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-waleed-khan-51a759196/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:engr.waleed.45342@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+
+
+
+
 <!--<p align="center">
 
 <a href="https://github.com/Waleed776-zoi">
@@ -192,26 +208,18 @@ Currently exploring contributions in:
 
 <p align="center">
 
-<a href="https://github.com/Waleed776-zoi">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
 
-<a href="https://www.linkedin.com/in/muhammad-waleed-khan-51a759196/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:engr.waleed.45342@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
 
 <a href="https://scholar.google.com/citations?user=W_Z-x_YAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat&logo=google-scholar"/>
+<img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat&logo=google-scholar&logoColor=white"/>
 </a>
+
 <a href="https://ieeexplore.ieee.org/author/273739396429418">
-<img src="https://shields.io" alt="IEEE Xplore" />
+<img src="https://img.shields.io/badge/IEEE-Xplore-blue?style=flat&logo=ieee&logoColor=white"/>
 </a>
+
 <a href="https://orcid.org/0009-0007-4491-0400">
-<img src="https://shields.io" alt="ORCID" />
+<img src="https://img.shields.io/badge/ORCID-Profile-a6ce39?style=flat&logo=orcid&logoColor=white"/>
 </a>
 
 </p>
