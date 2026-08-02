@@ -76,21 +76,27 @@ Balochistan University of Information Technology, Engineering and Management Sci
 
 # 📄 Publications
 
-## 🏥 Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging
 
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/IEEE_logo.svg" width="120"/>
-</p>
+[IEEE Access, 2026] **Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging**  
+🔗 https://doi.org/10.1109/ACCESS.2026.3691800
 
-**Published:** IEEE Access (Early Access) — 2026
 
-**Manuscript ID:** ACCESS-2026-08745
+[IEEE Xplore — ICETECC, 2025] **Enhanced Signature Recognition and Fraud Detection with Deep Learning**  
+🔗 (https://doi.org/10.1109/icetecc65365.2025.11070295)
 
-**DOI:** 10.1109/ACCESS.2026.3691800
+[C-CODE, 2025] **Calibrated OOD Classification for Packet Streams: A Deep Learning Approach** — [Paper](https://doi.org/10.1109/C-CODE67372.2025.11204105)
 
-🔗 Publication:
 
-https://doi.org/10.1109/ACCESS.2026.3691800
+[Insights Journal of Health and Rehabilitation (IJHR), 2025] **Impact of Artificial Intelligence on Clinical Decision-Making and Support Systems in Hospital Environments**  
+🔗 https://doi.org/10.71000/zhqwm010
+
+
+[Insights Journal of Health and Rehabilitation (IJHR), 2025] **Patient Perspectives on the Use of AI in Medical Decision-Making – Exploring Patient Trust and Acceptance of AI-Driven Healthcare Services**  
+🔗 https://doi.org/10.71000/e5q9ey91
+
+
+[Insights Journal of Health and Rehabilitation (IJHR), 2025] **Umbrella Review of AI-Based Radiology Techniques: Comparing Traditional and Deep Learning Methods**  
+🔗 https://doi.org/10.71000/njpwq448
 
 ### Research Contributions:
 
