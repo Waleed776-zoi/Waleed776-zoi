@@ -26,11 +26,11 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 > **From the mountains of Balochistan to AI research, building intelligent systems that transform ideas into real-world impact.**
 
-# 🧠 Research Interests & Contributions
+# Research Interests & Contributions
 
 Focused on building intelligent AI systems at the intersection of **Deep Learning, Generative AI, and Machine Learning**, with applications in:
 
