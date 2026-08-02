@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;MS+Computational+Science+%26+Engineering+%40+NUST;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Building+AI+Systems+for+Real-World+Impact" />
 </p>
 
-<p align="center">
+<!--<p align="center">
 
 <a href="https://github.com/Waleed776-zoi">
 <img src="https://img.shields.io/github/followers/Waleed776-zoi?label=Followers&style=social"/>
@@ -19,6 +19,7 @@
 </a>
 
 </p>
+-->
 
 ---
 
@@ -26,11 +27,7 @@
 
 > **From the mountains of Balochistan to AI research — building intelligent systems that transform ideas into real-world impact.**
 
-I am a **Computer Engineer and AI Researcher** currently pursuing my **MS in Computational Science and Engineering at NUST Islamabad**.
-
-My journey started from **Balochistan, Pakistan**, where limited resources strengthened my curiosity and determination to explore technology. Today, I work at the intersection of **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**, developing intelligent systems that address practical challenges.
-
-My research interests include:
+Research interests:
 
 * 🤖 Large Language Models (LLMs)
 * 🔎 Retrieval-Augmented Generation (RAG)
@@ -81,7 +78,7 @@ https://doi.org/10.1109/ACCESS.2026.3691800
 
 ---
 
-# 🧪 Research Projects & AI Systems
+<!--# 🧪 Research Projects & AI Systems
 
 ## 🤖 PMTS AI Assistant — RAG Based Intelligent System
 
@@ -104,7 +101,7 @@ Key Features:
 <!--Repository:
 
 🔗 Add Repository Link
--->
+
 ---
 
 ## 🌍 Machine Learning Based LULC Analysis Pipeline
@@ -131,7 +128,7 @@ Models:
 Repository:
 
 🔗 Add Repository Link
--->
+
 ---
 
 ## 🛡️ Out-of-Distribution Detection for Network Security
@@ -148,7 +145,7 @@ Techniques:
 Tools:
 
 Python • PyTorch • Scapy • PyShark
-
+-->
 ---
 
 
@@ -156,14 +153,9 @@ Python • PyTorch • Scapy • PyShark
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,tensorflow,pytorch"/>
 </p>
 
-## AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
 
 ---
 
@@ -210,6 +202,16 @@ Currently exploring contributions in:
 
 <a href="mailto:engr.waleed.45342@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=W_Z-x_YAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat&logo=google-scholar"/>
+</a>
+<a href="https://ieeexplore.ieee.org/author/273739396429418">
+<img src="https://shields.io" alt="IEEE Xplore" />
+</a>
+<a href="https://orcid.org/0009-0007-4491-0400">
+<img src="https://shields.io" alt="ORCID" />
 </a>
 
 </p>
