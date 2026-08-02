@@ -51,7 +51,7 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 
 [IEEE Access, 2026] Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging — [Paper](https://doi.org/10.1109/ACCESS.2026.3691800)
 
-[C-CODE, 2025] Calibrated OOD Classification for Packet Streams: A Deep Learning Approach — [Paper](https://doi.org/10.1109/C-CODE67372.2025.11204105)
+[IEEE Xplore — C-CODE, 2025] Calibrated OOD Classification for Packet Streams: A Deep Learning Approach — [Paper](https://doi.org/10.1109/C-CODE67372.2025.11204105)
 
 [IJHR, 2025] Impact of Artificial Intelligence on Clinical Decision-Making and Support Systems in Hospital Environments — [Paper](https://doi.org/10.71000/zhqwm010)
 
