@@ -73,27 +73,6 @@ Balochistan University of Information Technology, Engineering and Management Sci
 🏆 Balochistan Education Endowment Fund (BEEF) Scholar
 -->
 
-
-# 📄 Publications
-
-
-[IEEE Access, 2026] **Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging** [Paper](https://doi.org/10.1109/ACCESS.2026.36918000)
-
-
-[IEEE Xplore — ICETECC, 2025] **Enhanced Signature Recognition and Fraud Detection with Deep Learning**  
-🔗 (https://doi.org/10.1109/icetecc65365.2025.11070295)
-
-[C-CODE, 2025] **Calibrated OOD Classification for Packet Streams: A Deep Learning Approach** — [Paper](https://doi.org/10.1109/C-CODE67372.2025.11204105)
-
-
-[Insights Journal of Health and Rehabilitation (IJHR), 2025] **Impact of Artificial Intelligence on Clinical Decision-Making and Support Systems in Hospital Environments**  [Paper](https://doi.org/10.71000/zhqwm010)
-
-
-[Insights Journal of Health and Rehabilitation (IJHR), 2025] **Patient Perspectives on the Use of AI in Medical Decision-Making – Exploring Patient Trust and Acceptance of AI-Driven Healthcare Services**  [Paper](https://doi.org/10.71000/e5q9ey91)
-
-
-[Insights Journal of Health and Rehabilitation (IJHR), 2025] **Umbrella Review of AI-Based Radiology Techniques: Comparing Traditional and Deep Learning Methods**[Paper](https://doi.org/10.71000/njpwq448)
-
 # 📄 Publications
 
 [IEEE Access, 2026] Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging — [Paper](https://doi.org/10.1109/ACCESS.2026.3691800)
@@ -191,7 +170,7 @@ Python • PyTorch • Scapy • PyShark
 
 
 
-## Programming Languages
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,tensorflow,pytorch"/>
