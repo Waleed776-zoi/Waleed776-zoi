@@ -6,10 +6,8 @@
 
 <p align="center">
 
-<a href="https://github.com/Waleed776-zoi">
-<img src="https://img.shields.io/github/followers/Waleed776-zoi?label=Follow&style=social" />
-</a>
-<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" /> </a>
+
+<a href="https://github.com/Waleed776-zoi"> <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" /> </a>
 
 <a href="https://www.linkedin.com/in/muhammad-waleed-khan-51a759196/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
