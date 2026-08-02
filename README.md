@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Waleed Khan
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;MS+Computational+Science+%26+Engineering+%40+NUST;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Building+AI+Systems+for+Real-World+Impact" />
@@ -42,8 +42,7 @@ My research interests include:
 
 ---
 
-# 🎓 Education & Recognition
-
+<!-- 
 🎓 **MS Computational Science and Engineering**
 National University of Sciences and Technology (NUST)
 
@@ -52,8 +51,8 @@ Balochistan University of Information Technology, Engineering and Management Sci
 
 🏆 Merit Scholarship Recipient
 🏆 Balochistan Education Endowment Fund (BEEF) Scholar
+-->
 
----
 
 # 📄 Publications
 
@@ -102,10 +101,10 @@ Key Features:
 ✅ Risk analytics integration
 ✅ Enterprise AI workflow automation
 
-Repository:
+<!--Repository:
 
 🔗 Add Repository Link
-
+-->
 ---
 
 ## 🌍 Machine Learning Based LULC Analysis Pipeline
@@ -128,10 +127,11 @@ Models:
 * Feature Engineering
 * Spatial Analytics
 
+<!--
 Repository:
 
 🔗 Add Repository Link
-
+-->
 ---
 
 ## 🛡️ Out-of-Distribution Detection for Network Security
@@ -151,18 +151,7 @@ Python • PyTorch • Scapy • PyShark
 
 ---
 
-# 🧠 AI / ML Implementations
 
-| Project                 | Description                                         |
-| ----------------------- | --------------------------------------------------- |
-| Medical Imaging AI      | Deep learning models for detection and segmentation |
-| LLM Applications        | RAG pipelines and intelligent assistants            |
-| Computer Vision Systems | Detection and classification models                 |
-| ML Pipelines            | End-to-end AI workflows                             |
-
----
-
-# 🛠️ Technical Skills
 
 ## Programming Languages
 
@@ -176,32 +165,9 @@ Python • PyTorch • Scapy • PyShark
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-Frameworks & Libraries:
-
-* PyTorch
-* TensorFlow
-* Keras
-* Scikit-learn
-* Hugging Face Transformers
-* LangChain
-* LlamaIndex
-* OpenCV
-* Pandas
-* NumPy
-
-## Engineering Tools
-
-* FastAPI
-* Docker
-* Git
-* Linux
-* ChromaDB
-* Vector Databases
-* REST APIs
-
 ---
 
-# 🌱 Open Source Journey
+<!--# 🌱 Open Source Journey
 
 Currently exploring contributions in:
 
@@ -209,32 +175,18 @@ Currently exploring contributions in:
 * 🧠 Open-source AI frameworks
 * 🔬 Research implementations
 * ⚙️ AI engineering tools
-
----
-
-# 🏆 Achievements
-
-🥇 Gold Medalist — Computer Engineering
-
-📚 IEEE Published Researcher
-
-🎓 MS Computational Science & Engineering — NUST
-
-🤖 AI/ML Research & Development Projects
-
-🏛️ Industry Liaison — NUST Student Council
-
-💻 Development of AI-powered real-world systems
+-->
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<!--<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Waleed776-zoi&show_icons=true&theme=radical"/>
 
 </p>
+-->
 
 <p align="center">
 
@@ -252,11 +204,11 @@ Currently exploring contributions in:
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/muhammad-waleed-khan-51a759196/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:engr.waleed.45342@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -266,6 +218,6 @@ Currently exploring contributions in:
 
 <p align="center">
 
-⭐ **Building intelligent systems where research meets real-world impact.**
+<!--⭐ **Building intelligent systems where research meets real-world impact.**-->
 
 </p>
