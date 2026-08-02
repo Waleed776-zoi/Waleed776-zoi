@@ -40,6 +40,12 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 - 📊 **Applied Machine Learning** — Data-driven solutions for healthcare, security, and real-world decision systems
 
 ---
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,tensorflow,pytorch"/>
+</p>
+---
 
 # 📄 Publications
 
@@ -54,15 +60,6 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 [IEEE Xplore — ICETECC, 2025] Enhanced Signature Recognition and Fraud Detection with Deep Learning — [Paper](https://doi.org/10.1109/icetecc65365.2025.11070295)
 
 [IJHR, 2025] Umbrella Review of AI-Based Radiology Techniques: Comparing Traditional and Deep Learning Methods — [Paper](https://doi.org/10.71000/njpwq448)
-
----
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,tensorflow,pytorch"/>
-</p>
-
 
 ---
 
