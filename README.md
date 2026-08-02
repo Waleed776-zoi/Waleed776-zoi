@@ -5,17 +5,23 @@
 </p>
 
 <p align="center">
+
 <a href="https://github.com/Waleed776-zoi">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Waleed776-zoi?label=Followers&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-waleed-khan-51a759196/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:engr.waleed.45342@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="https://ieeexplore.ieee.org/author/273739396429418">
+<img src="https://img.shields.io/badge/IEEE-Xplore-blue?style=for-the-badge&logo=ieee&logoColor=white"/>
 </a>
+
+<a href="https://orcid.org/0009-0007-4491-0400">
+<img src="https://img.shields.io/badge/ORCID-Profile-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
 </p>
 
 
