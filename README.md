@@ -7,7 +7,7 @@
 <p align="center">
 
 <a href="https://github.com/Waleed776-zoi">
-<img src="https://shields.io" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Waleed776-zoi?label=Followers&style=social&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-waleed-khan-51a759196/">
