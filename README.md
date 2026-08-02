@@ -24,54 +24,22 @@
 
 </p>
 
-
-
-
-<!--<p align="center">
-
-<a href="https://github.com/Waleed776-zoi">
-<img src="https://img.shields.io/github/followers/Waleed776-zoi?label=Followers&style=social"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
-</a>
-
-<a href="https://scholar.google.com/">
-<img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat&logo=google-scholar"/>
-</a>
-
-</p>
--->
-
 ---
 
 # 🚀 About Me
 
-> **From the mountains of Balochistan to AI research — building intelligent systems that transform ideas into real-world impact.**
+> **From the mountains of Balochistan to AI research, building intelligent systems that transform ideas into real-world impact.**
 
-Research interests:
+# 🧠 Research Interests & Contributions
 
-* 🤖 Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧠 Deep Learning Systems
-* 🖼️ Computer Vision
-* 🌍 Remote Sensing & Geospatial AI
-* 📊 Machine Learning Applications
-* ⚡ AI-powered Automation
+Focused on building intelligent AI systems at the intersection of **Deep Learning, Generative AI, and Machine Learning**, with applications in:
+
+- 🤖 **LLMs & RAG** — Knowledge-grounded AI assistants and intelligent automation  
+- 🧠 **Deep Learning & Computer Vision** — Medical image analysis, tumor detection, and segmentation frameworks  
+- 🌍 **Remote Sensing & Geospatial AI** — Satellite imagery analysis and ML-based environmental applications  
+- 📊 **Applied Machine Learning** — Data-driven solutions for healthcare, security, and real-world decision systems
 
 ---
-
-<!-- 
-🎓 **MS Computational Science and Engineering**
-National University of Sciences and Technology (NUST)
-
-🥇 **Gold Medalist — BS Computer Engineering**
-Balochistan University of Information Technology, Engineering and Management Sciences (BUITEMS)
-
-🏆 Merit Scholarship Recipient
-🏆 Balochistan Education Endowment Fund (BEEF) Scholar
--->
 
 # 📄 Publications
 
@@ -87,88 +55,7 @@ Balochistan University of Information Technology, Engineering and Management Sci
 
 [IJHR, 2025] Umbrella Review of AI-Based Radiology Techniques: Comparing Traditional and Deep Learning Methods — [Paper](https://doi.org/10.71000/njpwq448)
 
-
-
-### Research Contributions:
-
-* Deep Learning-based medical image analysis
-* Automated tumor detection
-* Image segmentation frameworks
-* AI-assisted healthcare solutions
-
 ---
-
-<!--# 🧪 Research Projects & AI Systems
-
-## 🤖 PMTS AI Assistant — RAG Based Intelligent System
-
-An intelligent AI assistant designed for public-sector project monitoring using:
-
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models
-* Vector Databases
-* Semantic Search
-* Structured Data Intelligence
-
-Key Features:
-
-✅ Conversational AI
-✅ Document Intelligence
-✅ Data-grounded responses
-✅ Risk analytics integration
-✅ Enterprise AI workflow automation
-
-<!--Repository:
-
-🔗 Add Repository Link
-
----
-
-## 🌍 Machine Learning Based LULC Analysis Pipeline
-
-**Agricultural Land Loss Study — Pakistan**
-
-A complete geospatial AI pipeline analyzing land-use and land-cover changes using satellite imagery.
-
-Technologies:
-
-* Remote Sensing
-* Raster Processing
-* GeoPandas
-* Rasterio
-* Machine Learning Classification
-
-Models:
-
-* Random Forest
-* Feature Engineering
-* Spatial Analytics
-
-<!--
-Repository:
-
-🔗 Add Repository Link
-
----
-
-## 🛡️ Out-of-Distribution Detection for Network Security
-
-Research focused on detecting abnormal network behaviour using AI.
-
-Techniques:
-
-* Deep Learning
-* Mahalanobis Distance
-* Network Packet Analysis
-* PCAP Data Processing
-
-Tools:
-
-Python • PyTorch • Scapy • PyShark
--->
----
-
-
 
 ## Tech Stack
 
@@ -179,59 +66,11 @@ Python • PyTorch • Scapy • PyShark
 
 ---
 
-<!--# 🌱 Open Source Journey
-
-Currently exploring contributions in:
-
-* 🤗 Hugging Face ecosystem
-* 🧠 Open-source AI frameworks
-* 🔬 Research implementations
-* ⚙️ AI engineering tools
--->
-
----
-
 # 📊 GitHub Statistics
 
-<!--<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Waleed776-zoi&show_icons=true&theme=radical"/>
-
-</p>
--->
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=radical"/>
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-
-
-<a href="https://scholar.google.com/citations?user=W_Z-x_YAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=flat&logo=google-scholar&logoColor=white"/>
-</a>
-
-<a href="https://ieeexplore.ieee.org/author/273739396429418">
-<img src="https://img.shields.io/badge/IEEE-Xplore-blue?style=flat&logo=ieee&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0007-4491-0400">
-<img src="https://img.shields.io/badge/ORCID-Profile-a6ce39?style=flat&logo=orcid&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<!--⭐ **Building intelligent systems where research meets real-world impact.**-->
 
 </p>
