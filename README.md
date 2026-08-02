@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;MS+Computational+Science+%26+Engineering+%40+NUST;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Building+AI+Systems+for+Real-World+Impact" />
 </p>
 
+<p align="center">
 <a href="https://github.com/Waleed776-zoi">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
@@ -15,7 +16,7 @@
 <a href="mailto:engr.waleed.45342@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
-
+</p>
 
 
 
