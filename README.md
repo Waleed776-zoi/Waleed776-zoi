@@ -49,18 +49,17 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 
 # 📄 Publications
 
-[IEEE Access, 2026] Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging — [Paper](https://doi.org/10.1109/ACCESS.2026.3691800)
+- [IEEE Access, 2026] **Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging** — [Paper](https://doi.org/10.1109/ACCESS.2026.3691800)
 
-[IEEE Xplore — C-CODE, 2025] Calibrated OOD Classification for Packet Streams: A Deep Learning Approach — [Paper](https://doi.org/10.1109/C-CODE67372.2025.11204105)
+- [IEEE Xplore — C-CODE, 2025] **Calibrated OOD Classification for Packet Streams: A Deep Learning Approach** — [Paper](https://doi.org/10.1109/C-CODE67372.2025.11204105)
 
-[IJHR, 2025] Impact of Artificial Intelligence on Clinical Decision-Making and Support Systems in Hospital Environments — [Paper](https://doi.org/10.71000/zhqwm010)
+- [IJHR, 2025] **Impact of Artificial Intelligence on Clinical Decision-Making and Support Systems in Hospital Environments** — [Paper](https://doi.org/10.71000/zhqwm010)
 
-[IJHR, 2025] Patient Perspectives on the Use of AI in Medical Decision-Making – Exploring Patient Trust and Acceptance of AI-Driven Healthcare Services — [Paper](https://doi.org/10.71000/e5q9ey91)
+- [IJHR, 2025] **Patient Perspectives on the Use of AI in Medical Decision-Making – Exploring Patient Trust and Acceptance of AI-Driven Healthcare Services** — [Paper](https://doi.org/10.71000/e5q9ey91)
 
-[IEEE Xplore — ICETECC, 2025] Enhanced Signature Recognition and Fraud Detection with Deep Learning — [Paper](https://doi.org/10.1109/icetecc65365.2025.11070295)
+- [IEEE Xplore — ICETECC, 2025] **Enhanced Signature Recognition and Fraud Detection with Deep Learning** — [Paper](https://doi.org/10.1109/icetecc65365.2025.11070295)
 
-[IJHR, 2025] Umbrella Review of AI-Based Radiology Techniques: Comparing Traditional and Deep Learning Methods — [Paper](https://doi.org/10.71000/njpwq448)
-
+- [IJHR, 2025] **Umbrella Review of AI-Based Radiology Techniques: Comparing Traditional and Deep Learning Methods** — [Paper](https://doi.org/10.71000/njpwq448)
 ---
 
 # 📊 GitHub Statistics
