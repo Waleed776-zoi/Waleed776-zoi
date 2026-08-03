@@ -28,7 +28,7 @@
 
 # About Me
 
-> **From the mountains of Balochistan to AI research, building intelligent systems that transform ideas into real-world impact.**
+> **From the mountains of Balochistan to AI researcher, building intelligent systems that transform ideas into real-world impact.**
 
 # Research Interests & Contributions
 
