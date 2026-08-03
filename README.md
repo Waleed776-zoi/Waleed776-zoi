@@ -68,6 +68,14 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 <img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=dark"/>
 <p>
 <img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=merko"/>
+<p>
+<img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=tokyonight"/>
+
+</p>
+<p>
+<img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=dracula"/>
+
+</p>
 
 
 </p>
