@@ -58,14 +58,14 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 - [IJHR, 2025] **Umbrella Review of AI-Based Radiology Techniques: Comparing Traditional and Deep Learning Methods** — [Paper](https://doi.org/10.71000/njpwq448)
 ---
 
-# 📊 GitHub Statistics
+<!--# 📊 GitHub Statistics
 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=dracula"/>
+<!--<img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=dracula"/>
 
-<!--
+
 </p>
 <img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=dark"/>
 <p>
