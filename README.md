@@ -43,7 +43,7 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,tensorflow,pytorch,typescript,next.js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,matlab,tensorflow,pytorch,typescript"/>
 </p>
 
 ---
