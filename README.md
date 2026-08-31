@@ -4,6 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;MS+Computational+Science+%26+Engineering+%40+NUST;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Building+AI+Systems+for+Real-World+Impact" />
 
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Waleed776-zoi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="center">
 
