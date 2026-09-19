@@ -69,6 +69,7 @@ Focused on building intelligent AI systems at the intersection of **Deep Learnin
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=dracula"/>
+<img src="https://streak-stats.demolab.com?user=Waleed776-zoi&theme=dracula&starting_year=2023"/>
 <!--
 
 </p>
