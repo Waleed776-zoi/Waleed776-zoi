@@ -39,7 +39,7 @@
 
 Focused on building intelligent AI systems at the intersection of **Deep Learning, Generative AI, and Machine Learning**, with applications in:
 
-- 🤖 **LLMs & RAG** — Knowledge-grounded AI assistants and intelligent automation  
+- 🤖 **LLMs & RAG** — Knowledge-grounded AI assistants and intelligent automations
 - 🧠 **Deep Learning & Computer Vision** — Medical image analysis, tumor detection, and segmentation frameworks  
 - 🌍 **Remote Sensing & Geospatial AI** — Satellite imagery analysis and ML-based environmental applications  
 - 📊 **Applied Machine Learning** — Data-driven solutions for healthcare, security, and real-world decision systems.
